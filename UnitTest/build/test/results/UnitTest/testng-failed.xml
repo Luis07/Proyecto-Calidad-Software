@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UnitTest]">
+  <test name="unittest.UtilidadesTest(failed)" junit="true">
+    <classes>
+      <class name="unittest.UtilidadesTest">
+        <methods>
+          <include name="testDivision"/>
+        </methods>
+      </class> <!-- unittest.UtilidadesTest -->
+    </classes>
+  </test> <!-- unittest.UtilidadesTest(failed) -->
+</suite> <!-- Failed suite [UnitTest] -->
